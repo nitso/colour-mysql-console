@@ -4,7 +4,7 @@ count=stop
 colours=white
 -
 #table borders
-regexp=[+\-|]+
+regexp=[+\-]+[+\-]|[|]
 colours=red
 -
 #default word color

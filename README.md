@@ -21,3 +21,10 @@ Sample screenshots
 
 ![Table screenshot](https://raw.github.com/nitso/colour-mysql-console/master/Screen_table.png)
 ![Vertical screenshot](https://raw.github.com/nitso/colour-mysql-console/master/Screen_G.png)
+
+Another one nice hack
+---------------------
+You can also use `less` in pager to have some features like scrolling, search, line numbers etc.
+`pager = grcat ~/.grcat | less -RSFXin`
+
+Just type `man less` to read about less parameters.

@@ -15,7 +15,7 @@ colours=white
 -
 
 #numeric
-regexp=\s[\d\.]+(\s|.$)
+regexp=\s[\d\.]+\s*($|(?=\|))
 colours=yellow
 -
 

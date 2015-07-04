@@ -28,3 +28,7 @@ You can also use `less` in pager to have some features like scrolling, search, l
 `pager = grcat ~/.grcat | less -RSFXin`
 
 Just type `man less` to read about less parameters.
+
+LICENSE
+-------
+Project distributes with standard MIT license

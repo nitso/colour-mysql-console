@@ -5,7 +5,7 @@ Sample config files showing how to colorize linux console mysql client using grc
 How to use it
 -------------
 1. Install grc (for debian systems: `apt-get install grc`)
-2. Copy both config files into your home directory
+2. Copy both config files into your home directory: [.grcat](./.grcat) and [.my.cnf](./.my.cnf)
 3. Run mysql client `mysql -u <user> -p -h <hostname>`
 4. Enjoy!
 
